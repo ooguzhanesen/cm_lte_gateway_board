@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Sayfa -1" id="RScceMsKaYzpCShR5wof">
+    <mxGraphModel dx="868" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lPH44GEo74ssyxKd7uUS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CM5" vertex="1">
+          <mxGeometry height="170" width="120" x="384" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EG25&lt;div&gt;LTE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WM1302&lt;div&gt;Lora Gateway&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RTL8367RB&lt;div&gt;Gigabit Switch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="magjack rj45 x 4" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22WM1302%26lt%3Bdiv%26gt%3BLora%20Gateway%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22120%22%20x%3D%22580%22%20y%3D%22510%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3ETy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;USB&lt;/div&gt;Type-c&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="384" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot; face=&quot;monospace&quot;&gt;expansion&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Expention Port&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="201" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="M2 SSD" vertex="1">
+          <mxGeometry height="60" width="120" x="384" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Protection &amp;amp;&lt;div&gt;Filter&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5 volt&amp;nbsp;&lt;div&gt;Regulator&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="374" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12-24v Power&amp;nbsp;&lt;div&gt;Input&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="lPH44GEo74ssyxKd7uUS-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.3 volt&amp;nbsp;&lt;div&gt;Regulator&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="374" y="950" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

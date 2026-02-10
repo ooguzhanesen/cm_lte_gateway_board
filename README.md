@@ -1,1 +1,0 @@
-# cm_lte_gateway_board

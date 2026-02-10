@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c5068a13-c569-4e83-812c-191ffce0a55b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 72.39 55.88)
+		(size 29.21 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3bf8b67b-ce27-4442-8ef6-28acc8e53c2e")
+		(property "Sheetname" "Gigabit Switch"
+			(at 72.39 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RTL8367RB.kicad_sch"
+			(at 72.39 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cm5_lte_gateway_board"
+				(path "/c5068a13-c569-4e83-812c-191ffce0a55b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
